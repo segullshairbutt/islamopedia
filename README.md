@@ -1,7 +1,7 @@
 # Islamopedia
-This open-source project was created to build a tool that helps people learn about Islam. The long-term plan is to train AI to help scholars in doing research, comparative analysis, and crafting research papers, journals, or even books.
+This is an open-source project created to build a tool that helps people learn about Islam. The long-term plan is to train AI to help scholars in doing research, comparative analysis, and crafting research papers, journals, or even books, and a layman to have everything about Islam in his hand.
 
-The main purpose is to break the language barrier to read about **must-known** things. We will build a community working together and providing high-quality work by ensuring strict quality standards. 
+The first and most important purpose is to break the language barrier to read about **must-known** things. The second most important purpose is to build a community working together and providing high-quality work by ensuring strict quality standards by bringing critical thinking and comparative analysis into academic discourse. It will help the scholars to research each single Hadees by having all the books of Hadith, Biographies, and other scholars' comments in one place. It is going to be fun. InshaAllah
 
 _**One issue will be created and referenced here for each point, Further details can be discussed over there in that specific context.**_
 
@@ -11,29 +11,37 @@ _**One issue will be created and referenced here for each point, Further details
 3. A good document writer with a cool referencing mechanism
 4. A good PDF generator to download the book and save it for later use
 5. A transparent way of reviewing all of the texts that are being uploaded [#3](/../../issues/3)
-7. A list of books which are on the track coming ahead
+6. Multi-lingual capabilities
+    1. This site will be offered initially in English and Urdu and later to other languages as team is expanded
+    2. Default translations would be offered according to the locale of the user
+7. Personal features are available only if a user is logged in
+    1. Bookmarks
+    2. Notes
+    3. Text highlighting
+    4. Document crafting 
+8. A list of books which are on the track coming ahead
     1. Books of Fiqh
-      2. All popular Fiqh books
+      1. Ahl-e-Sunah Fiqhs
+         1. Fiqha Hanfi
+         2. Fiqha Maliki
+         3. Fiqha Shafie
+         4. Fiqa Hambali 
+       2. Ahl-e-Tasheeh Fiqh
+        1. Fiqha Jaffria
     2. Biographies
-      1. Ahl-e-Bait
-      2. Ummahat-ul-Momineen
-      3. Sahaba and Sahabiat
-      4. Prophet PBUH (The reason why it is kept on the last is because we already have a lot of content online, but for the above points we have almost nothing)
-    6. Books regarding the biographies of our Imams or great leaders e.g. Four Imams, Sihah Sitah Imams, Khulafa Rashidin, Ahl-e-Bait, Um-ul-Momineen
-8. Information about the team contributing to this project
+      1. Ahl-e-Bait S.A
+      2. Ummahat-ul-Momineen R.A
+      3. Sahaba and Sahabiat R.A
+      4. All popular Fiqhi Imams (Imam Abu Hanifa, Imam Malik, Imam Shafie, Imam Ahmad, Imam Jaffar) R
+      5. All popular Ahl-e-Sunnah Imams (Writers of Sihah Sitah) R
+      6. Khulafa-e-Rashideen (Hazrat Abu Bakar, Hazrat Umar, Hanzrat Usman and Hazrat Ali) R.A
+      7. Prophet PBUH (The reason to keep it last on the list is that we already have a lot of content online, but for the above points we have almost nothing)
+9. Information about the team contributing to this project
     1. Developers
     2. Translators
     3. Typewriters
     4. Researchers
     5. Donors (If they want their names to be displayed)
-9. Multi-lingual capabilities
-    1. This site will be offered initially in English and Urdu and later to other languages as team is expanded
-    2. Default translations would be offered according to the locale of the user
-10. Personal features are available only if a user is logged in
-    1. Bookmarks
-    2. Notes
-    3. Text highlighting
-    4. Document crafting 
 11. Technical aspects
     1. Tech stack 
     2. Deployment tools
