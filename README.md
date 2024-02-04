@@ -19,23 +19,7 @@ _**One issue will be created and referenced here for each point, Further details
     2. Notes
     3. Text highlighting
     4. Document crafting 
-8. A list of books which are on the track coming ahead
-    1. Books of Fiqh
-        1. Ahl-e-Sunah Fiqhs
-            1. Fiqha Hanfi
-            2. Fiqha Maliki
-            3. Fiqha Shafie
-            4. Fiqa Hambali 
-        2. Ahl-e-Tasheeh Fiqh
-            1. Fiqha Jafferia
-    2. Biographies
-      1. Ahl-e-Bait S.A
-      2. Ummahat-ul-Momineen R.A
-      3. Sahaba and Sahabiat R.A
-      4. All popular Fiqhi Imams (Imam Abu Hanifa, Imam Malik, Imam Shafie, Imam Ahmad, Imam Jaffar) R
-      5. All popular Ahl-e-Sunnah Imams (Writers of Sihah Sitah) R
-      6. Khulafa-e-Rashideen (Hazrat Abu Bakar, Hazrat Umar, Hanzrat Usman and Hazrat Ali) R.A
-      7. Prophet PBUH (The reason to keep it last on the list is that we already have a lot of content online, but for the above points we have almost nothing)
+8. More details about actual books can be seen in the [helper repository](https://github.com/segullshairbutt/islamopedia-books/)
 9. Information about the team contributing to this project
     1. Developers
     2. Translators
