@@ -21,13 +21,13 @@ _**One issue will be created and referenced here for each point, Further details
     4. Document crafting 
 8. A list of books which are on the track coming ahead
     1. Books of Fiqh
-      1. Ahl-e-Sunah Fiqhs
-         1. Fiqha Hanfi
-         2. Fiqha Maliki
-         3. Fiqha Shafie
-         4. Fiqa Hambali 
-       2. Ahl-e-Tasheeh Fiqh
-        1. Fiqha Jaffria
+        1. Ahl-e-Sunah Fiqhs
+            1. Fiqha Hanfi
+            2. Fiqha Maliki
+            3. Fiqha Shafie
+            4. Fiqa Hambali 
+        2. Ahl-e-Tasheeh Fiqh
+            1. Fiqha Jafferia
     2. Biographies
       1. Ahl-e-Bait S.A
       2. Ummahat-ul-Momineen R.A
@@ -43,10 +43,9 @@ _**One issue will be created and referenced here for each point, Further details
     4. Researchers
     5. Donors (If they want their names to be displayed)
 11. Technical aspects
-    1. Tech stack 
-    2. Deployment tools
-    3. Testing tools
-    4. Code review and maintenance mechanism
+    1. [Development, deployment and testing](./docs/technical-details.md)
+    2. [Local development environment setup](./docs/development-setup.md)
+    3. [Contribution, code review and maintenance mechanism](./docs/review-and-maintenance.md)
 12. Documentation
     1. General information on the tech stack provided to end users
     2. Information regarding the support they can provide in our open-source project
